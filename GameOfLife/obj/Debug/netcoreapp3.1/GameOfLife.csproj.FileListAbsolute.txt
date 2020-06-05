@@ -1,0 +1,26 @@
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.exe
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.json
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\FrozenKing173\source\repos\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.exe
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.json
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\FrozenKing173\Desktop\Ozow Game of Life\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
